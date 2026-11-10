@@ -1,0 +1,805 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "bKJmPk5VlTJh4fq25Ka3J",
+      "type": "text",
+      "x": -335.166647727415,
+      "y": -644.1584930419922,
+      "width": 698.6340942382812,
+      "height": 23.621856689453146,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": null,
+      "seed": 1888654245,
+      "version": 272,
+      "versionNonce": 754570699,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "UyB-K-mZ4YG-FsSTDn8Ys",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "text": "Get to a Position Where I can Do Real SW Dev and Move Up Career Ladder",
+      "fontSize": 18.897485351562516,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Get to a Position Where I can Do Real SW Dev and Move Up Career Ladder",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "created": null,
+      "labelPosition": null,
+      "baseFontSize": null
+    },
+    {
+      "id": "UyB-K-mZ4YG-FsSTDn8Ys",
+      "type": "arrow",
+      "x": -49.85760498046875,
+      "y": -620.95849609375,
+      "width": 0.125,
+      "height": 67.53750610351562,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1578777227,
+      "version": 103,
+      "versionNonce": 443737195,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.125,
+          67.53750610351562
+        ]
+      ],
+      "startBinding": {
+        "elementId": "bKJmPk5VlTJh4fq25Ka3J",
+        "mode": "inside",
+        "fixedPoint": [
+          0.4083812185805474,
+          0.9821411268912102
+        ]
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "created": null
+    },
+    {
+      "id": "vS-CDCwMTzDNUB84sqroT",
+      "type": "text",
+      "x": -145.366943359375,
+      "y": -542.6647338867188,
+      "width": 186.3598175048828,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": null,
+      "seed": 746215563,
+      "version": 118,
+      "versionNonce": 521215755,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "DcTAuB6moE4Lep_dsSmoQ",
+          "type": "arrow"
+        },
+        {
+          "id": "pPuE8csq8-w74b7BLqL_5",
+          "type": "arrow"
+        },
+        {
+          "id": "lkZd1qAU-xkOdfltJWmi-",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "text": "Increase Credibility",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Increase Credibility",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "created": null,
+      "labelPosition": null,
+      "baseFontSize": null
+    },
+    {
+      "id": "pPuE8csq8-w74b7BLqL_5",
+      "type": "arrow",
+      "x": 46.99287414550781,
+      "y": -518.3164985171134,
+      "width": 111.86204528808594,
+      "height": 7.261139630394666,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1554057579,
+      "version": 218,
+      "versionNonce": 1968113067,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          111.86204528808594,
+          7.261139630394666
+        ]
+      ],
+      "startBinding": {
+        "elementId": "vS-CDCwMTzDNUB84sqroT",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.9193035418674026,
+          0.9193035418674026
+        ]
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "created": null
+    },
+    {
+      "id": "6ju-rPHFJh_uWPCDBzYdj",
+      "type": "text",
+      "x": -524.6649576822916,
+      "y": -496.41266886393237,
+      "width": 251.43978881835938,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": null,
+      "seed": 1793826469,
+      "version": 523,
+      "versionNonce": 609687627,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "DcTAuB6moE4Lep_dsSmoQ",
+          "type": "arrow"
+        },
+        {
+          "id": "QWldhsm5z5CymLc2sPJur",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "text": "A Good (Masters) Degree",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "A Good (Masters) Degree",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "created": null,
+      "labelPosition": null,
+      "baseFontSize": null
+    },
+    {
+      "id": "DcTAuB6moE4Lep_dsSmoQ",
+      "type": "arrow",
+      "x": -110.25762939453125,
+      "y": -518.8241271972656,
+      "width": 156.96753946940106,
+      "height": 33.628525966359746,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8V",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 797758027,
+      "version": 543,
+      "versionNonce": 1778636523,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -156.96753946940106,
+          33.628525966359746
+        ]
+      ],
+      "startBinding": {
+        "elementId": "vS-CDCwMTzDNUB84sqroT",
+        "mode": "inside",
+        "fixedPoint": [
+          0.18839530127745405,
+          0.953624267578125
+        ]
+      },
+      "endBinding": {
+        "elementId": "6ju-rPHFJh_uWPCDBzYdj",
+        "mode": "orbit",
+        "fixedPoint": [
+          1,
+          0.5001
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false,
+      "created": null
+    },
+    {
+      "id": "s3Tn1ide_a8Qp_HZ_UdZz",
+      "type": "text",
+      "x": -302.9377272725104,
+      "y": -339.00324503580714,
+      "width": 273.30363303422894,
+      "height": 86.98959350585923,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9",
+      "roundness": null,
+      "seed": 1325347979,
+      "version": 883,
+      "versionNonce": 1692385675,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "lkZd1qAU-xkOdfltJWmi-",
+          "type": "arrow"
+        },
+        {
+          "id": "pqO6GP5U5IKf39NLqKcE2",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "text": "Recommendation From Authority\n- LinkedIn Acquaintance\n- Alumni Community\n- Friends and Family",
+      "fontSize": 17.39791870117186,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Recommendation From Authority\n- LinkedIn Acquaintance\n- Alumni Community\n- Friends and Family",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "created": null,
+      "labelPosition": null,
+      "baseFontSize": null
+    },
+    {
+      "id": "lkZd1qAU-xkOdfltJWmi-",
+      "type": "arrow",
+      "x": -55.99989636431076,
+      "y": -511.66473388671875,
+      "width": 106.42718628865396,
+      "height": 166.6614888509116,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9V",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 546790949,
+      "version": 1133,
+      "versionNonce": 2116376619,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -106.42718628865396,
+          166.6614888509116
+        ]
+      ],
+      "startBinding": {
+        "elementId": "vS-CDCwMTzDNUB84sqroT",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": {
+        "elementId": "s3Tn1ide_a8Qp_HZ_UdZz",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false,
+      "created": null
+    },
+    {
+      "id": "GjH4EvKLy10Ei1uxBdWHo",
+      "type": "text",
+      "x": 168.3704833984375,
+      "y": -521.6803588867188,
+      "width": 531.4194946289062,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aA",
+      "roundness": null,
+      "seed": 1510786277,
+      "version": 416,
+      "versionNonce": 331291339,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "TwcbtIXpO6A-qK0dPcNFu",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "text": "Be Exceptionally Expert in SWE\n- With Qualifiable and Quantifiable Results\n- Earn Respect and Fame from Open Source Community\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Be Exceptionally Expert in SWE\n- With Qualifiable and Quantifiable Results\n- Earn Respect and Fame from Open Source Community\n",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "created": null,
+      "labelPosition": null,
+      "baseFontSize": null
+    },
+    {
+      "id": "lrjt08a7_8JYC0CQOJBJj",
+      "type": "text",
+      "x": -956.6842257911339,
+      "y": -263.3323415120443,
+      "width": 324.94903564453125,
+      "height": 260.77087402343744,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aD",
+      "roundness": null,
+      "seed": 773188613,
+      "version": 1365,
+      "versionNonce": 193297722,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "QWldhsm5z5CymLc2sPJur",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1784206052511,
+      "link": null,
+      "locked": false,
+      "text": "Pros:\n- Most Socially Acceptible\n- Don't have to Fight Parents\n- A \"defined\" path with small\nchance of getting utterly wrong\n\nCons:\n- Tedious Prep process\n- No garauntee for a good job\n- Fall 2027 is a timecrunch",
+      "fontSize": 20.861669921874995,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Pros:\n- Most Socially Acceptible\n- Don't have to Fight Parents\n- A \"defined\" path with small\nchance of getting utterly wrong\n\nCons:\n- Tedious Prep process\n- No garauntee for a good job\n- Fall 2027 is a timecrunch",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "created": null,
+      "labelPosition": null,
+      "baseFontSize": null
+    },
+    {
+      "id": "QWldhsm5z5CymLc2sPJur",
+      "type": "arrow",
+      "x": -523.4669799804688,
+      "y": -486.1940226741827,
+      "width": 262.6758460714932,
+      "height": 216.86168116213838,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aE",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1037634059,
+      "version": 1787,
+      "versionNonce": 1319434170,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1784206006330,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -131.30931599934877,
+          118.75846816978822
+        ],
+        [
+          -262.6758460714932,
+          216.86168116213838
+        ]
+      ],
+      "startBinding": {
+        "elementId": "6ju-rPHFJh_uWPCDBzYdj",
+        "mode": "inside",
+        "fixedPoint": [
+          0.004764471476263848,
+          0.40874584758998705
+        ]
+      },
+      "endBinding": {
+        "elementId": "lrjt08a7_8JYC0CQOJBJj",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false,
+      "created": null
+    },
+    {
+      "id": "pqO6GP5U5IKf39NLqKcE2",
+      "type": "arrow",
+      "x": -164.26991382931965,
+      "y": -256.032407219677,
+      "width": 10.274279733063167,
+      "height": 165.93017333295847,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aG",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1485534437,
+      "version": 427,
+      "versionNonce": 838757035,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -10.274279733063167,
+          165.93017333295847
+        ]
+      ],
+      "startBinding": {
+        "elementId": "s3Tn1ide_a8Qp_HZ_UdZz",
+        "mode": "inside",
+        "fixedPoint": [
+          0.5073764000269395,
+          0.9538018798828114
+        ]
+      },
+      "endBinding": {
+        "elementId": "nEhtzrdh0ERmqNFqPNQmS",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "moveMidPointsWithElement": false,
+      "created": null
+    },
+    {
+      "id": "nEhtzrdh0ERmqNFqPNQmS",
+      "type": "text",
+      "x": -346.83743966536395,
+      "y": -84.10223388671864,
+      "width": 343.774705697265,
+      "height": 456.2660725911458,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aH",
+      "roundness": null,
+      "seed": 1471820011,
+      "version": 485,
+      "versionNonce": 1070718283,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "pqO6GP5U5IKf39NLqKcE2",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1783761933489,
+      "link": null,
+      "locked": false,
+      "text": "Pros:\n- The most effortless\noption\n- Get to learn how to\nleverage network\n\nCons:\n- Least secure (Most\nresults are controlled by\nother people)\n- Hardest to get started\nwith current status quo\n\n",
+      "fontSize": 26.072347005208332,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Pros:\n- The most effortless option\n- Get to learn how to leverage network\n\nCons:\n- Least secure (Most results are controlled by other people)\n- Hardest to get started with current status quo\n\n",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "created": null,
+      "labelPosition": null,
+      "baseFontSize": null
+    },
+    {
+      "id": "MThDyHjRdtj0-eME2gV01",
+      "type": "text",
+      "x": 221.4216206868491,
+      "y": -309.8366394042969,
+      "width": 350.1677280180155,
+      "height": 822.0333862304681,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aK",
+      "roundness": null,
+      "seed": 183674955,
+      "version": 884,
+      "versionNonce": 23942571,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "TwcbtIXpO6A-qK0dPcNFu",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1783761951222,
+      "link": null,
+      "locked": false,
+      "text": "Pros:\n- Most Interesting Option\namongst all\n- Directly Reflects My\ndream career\n- Had been doing similar but\nsmaller scaled projects for a\nbit\n- Get to build a \"small\npersonal brand\" as a Dev\n- Get to collab and learn\nfrom influential figures in\nthe industry.\n\nCons:\n- Less \"defined\" path, and\nless socially acceptible.\n- Little to nobody to\nconsult with\n- Variabilities Remained\n    - Cannot garauntee\noutcome of my work\n    - Might get rejected,\nneglected by actually\ninfluential figures in the\nfield.",
+      "fontSize": 25.29333496093748,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Pros:\n- Most Interesting Option amongst all\n- Directly Reflects My dream career\n- Had been doing similar but smaller scaled projects for a bit\n- Get to build a \"small personal brand\" as a Dev\n- Get to collab and learn from influential figures in the industry.\n\nCons:\n- Less \"defined\" path, and less socially acceptible.\n- Little to nobody to consult with\n- Variabilities Remained\n    - Cannot garauntee outcome of my work\n    - Might get rejected, neglected by actually influential figures in the field.",
+      "autoResize": false,
+      "lineHeight": 1.25,
+      "created": null,
+      "labelPosition": null,
+      "baseFontSize": null
+    },
+    {
+      "id": "TwcbtIXpO6A-qK0dPcNFu",
+      "type": "arrow",
+      "x": 432.1166547974078,
+      "y": -415.68035888671875,
+      "width": 33.55943546380354,
+      "height": 99.84371948242188,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aL",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 875146373,
+      "version": 146,
+      "versionNonce": 1689874187,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1783761951222,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -33.55943546380354,
+          99.84371948242188
+        ]
+      ],
+      "startBinding": {
+        "elementId": "GjH4EvKLy10Ei1uxBdWHo",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": {
+        "elementId": "MThDyHjRdtj0-eME2gV01",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          0
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "created": null
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
